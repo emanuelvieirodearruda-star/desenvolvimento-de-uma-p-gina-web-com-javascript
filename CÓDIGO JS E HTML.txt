@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Currículo - Bruno Fanalli Gomes Correa</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-3xl mx-auto my-8 bg-white shadow-xl rounded-2xl overflow-hidden">
+    <!-- Cabeçalho -->
+    <div class="bg-blue-600 text-white p-6">
+      <h1 class="text-3xl font-bold">Bruno Fanalli Gomes Correa</h1>
+      <p class="text-sm mt-2">Cursando Análise e Desenvolvimento de Sistemas - 3° semestre</p>
+    </div>
+    <div class="p-6">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+        <p><strong>Data de nascimento:</strong> 05/12/2005 (19 anos)</p>
+        <p><strong>Endereço:</strong> Rua Arenápolis, 246 - Cohab Nova, MT</p>
+        <p><strong>Telefone:</strong> (65) 98443-6444</p>
+        <p><strong>Email:</strong> <a href="mailto:brunofanalli@hotmail.com" class="text-blue-600 hover:underline">brunofanalli@hotmail.com</a></p>
+      </div>
+      <section class="mb-6">
+        <h2 class="text-xl font-semibold border-b-2 border-blue-600 pb-1 mb-2">Resumo das Qualificações</h2>
+        <p>
+          Profissional com excelentes habilidades em tecnologia e sistemas de segurança, comunicação interpessoal e escrita.
+          Capaz de transmitir informações de maneira clara e eficaz para diferentes públicos.
+        </p>
+      </section>
+      <section class="mb-6">
+        <h2 class="text-xl font-semibold border-b-2 border-blue-600 pb-1 mb-2">Formação Acadêmica</h2>
+        <ul class="list-disc ml-6">
+          <li>Análise e Desenvolvimento de Sistemas - 2° semestre (UNIC)</li>
+          <li>Ensino Médio completo - Conclusão: 2023 (Colégio E.E Francisco A. Ferreira Mendes)</li>
+        </ul>
+      </section>
+      <section class="mb-6">
+        <h2 class="text-xl font-semibold border-b-2 border-blue-600 pb-1 mb-2">Informática</h2>
+        <ul class="list-disc ml-6">
+          <li>Conhecimento em pacote Office e Internet</li>
+          <li>Profissional em tecnologia de sistemas de segurança eletrônica</li>
+        </ul>
+      </section>
+      <section>
+        <h2 class="text-xl font-semibold border-b-2 border-blue-600 pb-1 mb-2">Objetivos</h2>
+        <p>
+          Busco uma oportunidade de crescimento profissional em um órgão inovador, onde possa aplicar minhas habilidades
+          em gestão de TI e contribuir para o desenvolvimento e sucesso da equipe.
+        </p>
+      </section>
+    </div>
+    <div class="bg-gray-100 text-center py-4 text-sm text-gray-600">
+      &copy; 2025 Bruno Fanalli Gomes Correa
+    </div>
+  </div>
+</body>
+</html>
